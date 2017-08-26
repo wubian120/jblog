@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jblog.iml" filepath="$PROJECT_DIR$/jblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jblog-api/jblog-api.iml" filepath="$PROJECT_DIR$/jblog-api/jblog-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jblog-biz/jblog-biz.iml" filepath="$PROJECT_DIR$/jblog-biz/jblog-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jblog-dao/jblog-dao.iml" filepath="$PROJECT_DIR$/jblog-dao/jblog-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jblog-server/jblog-server.iml" filepath="$PROJECT_DIR$/jblog-server/jblog-server.iml" />
+    </modules>
+  </component>
+</project>
