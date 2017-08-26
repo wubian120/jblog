@@ -13,11 +13,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jblog" target="1.5" />
-      <module name="jblog-api" target="1.5" />
-      <module name="jblog-biz" target="1.5" />
-      <module name="jblog-dao" target="1.5" />
-      <module name="jblog-server" target="1.5" />
+      <module name="jblog" target="1.8" />
+      <module name="jblog-api" target="1.8" />
+      <module name="jblog-biz" target="1.8" />
+      <module name="jblog-dao" target="1.8" />
+      <module name="jblog-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
