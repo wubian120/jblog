@@ -12,12 +12,17 @@
     <version>${jblog.version}</version>
     <packaging>jar</packaging>
 
+    <properties>
+        <druid>1.0.18</druid>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>com.brianwu</groupId>
             <artifactId>jblog-api</artifactId>
             <version>${jblog.version}</version>
         </dependency>
+
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
@@ -43,6 +48,13 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <!-- Druid 数据连接池依赖 -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>${druid}</version>
         </dependency>
     </dependencies>
 

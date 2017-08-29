@@ -85,11 +85,11 @@
             <!-- eleme -->
 
             <!-- log -->
-            <dependency>
-                <groupId>org.slf4j</groupId>
-                <artifactId>slf4j-api</artifactId>
-                <version>${slf4j-api.version}</version>
-            </dependency>
+            <!--<dependency>-->
+                <!--<groupId>org.slf4j</groupId>-->
+                <!--<artifactId>slf4j-api</artifactId>-->
+                <!--<version>${slf4j-api.version}</version>-->
+            <!--</dependency>-->
 
             <!-- tools -->
             <dependency>
